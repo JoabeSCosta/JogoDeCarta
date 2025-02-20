@@ -6,7 +6,7 @@ img {
 }
 
 .container-cartas{
-    background-image: url('mesa.webp'); 
+    background-image: url('./mesa.webp'); 
     height: 800px;
     width: 800px;
     background-size: cover;
